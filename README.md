@@ -33,13 +33,3 @@
 </head>
 
 <body>
-
-    <div class="box">
-        <h1>Hello, Vatsal Maru</h1>
-        <p>Master’s in International Business Management</p>
-        <p>Aspiring Business / Data Analyst</p>
-        <p>Open to opportunities in Ireland 🇮🇪</p>
-    </div>
-
-</body>
-</html>
