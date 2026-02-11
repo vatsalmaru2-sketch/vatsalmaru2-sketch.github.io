@@ -27,10 +27,9 @@
     </style>
 </head>
 <body>
-
-    <div class="card">
-        <h1>Hello, I'm [Your Name]</h1>
-        <p>Master’s in International Business Management</p>
+<div class="card">
+     <h1>Hello, I'm [Vatsal Maru]</h1>
+     <p>Master’s in International Business Management</p>
         <p>Aspiring Business & Data Analyst</p>
         <p>Open to roles in Ireland 🇮🇪</p>
     </div>
