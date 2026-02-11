@@ -1,37 +1,44 @@
-# vatsalmaru2-sketch.github.io
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>My First Website</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f6f8;
+            background-color: #f2f2f2;
             text-align: center;
             padding: 40px;
         }
-        h1 {
-            color: #2c3e50;
+
+        .box {
+            background-color: white;
+            padding: 30px;
+            max-width: 500px;
+            margin: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
+
+        h1 {
+            color: #333333;
+        }
+
         p {
             font-size: 18px;
-        }
-        .card {
-            background: white;
-            padding: 20px;
-            margin: auto;
-            max-width: 500px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            color: #555555;
         }
     </style>
 </head>
+
 <body>
-<div class="card">
-     <h1>Hello, I'm [Vatsal Maru]</h1>
-     <p>Master’s in International Business Management</p>
-        <p>Aspiring Business & Data Analyst</p>
-        <p>Open to roles in Ireland 🇮🇪</p>
+
+    <div class="box">
+        <h1>Hello, Vatsal Maru</h1>
+        <p>Master’s in International Business Management</p>
+        <p>Aspiring Business / Data Analyst</p>
+        <p>Open to opportunities in Ireland 🇮🇪</p>
     </div>
 
 </body>
